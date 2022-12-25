@@ -1,2 +1,2 @@
 # covid19
-Resources for the Udemy Course - Azure Data Factory For Data Engineers - Project on Covid-19 by Ramesh Retnasamy
+Resources for the MS Azure Course - Azure Data Factory For Data Engineers - Project on Covid-19
